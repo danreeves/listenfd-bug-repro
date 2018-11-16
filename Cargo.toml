@@ -1,0 +1,7 @@
+[package]
+name = "listenfd-bug"
+version = "0.1.0"
+authors = ["Dan Reeves <hey@danreev.es>"]
+
+[dependencies]
+listenfd = "0.3.3"
